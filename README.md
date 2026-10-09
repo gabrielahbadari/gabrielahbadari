@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science and Economics student at Boston University [Expected May 2028]with experience across software engineering, front-end development, API integration, and data analysis in fintech and digital product environments.
+Computer Science and Economics student at Boston University [Expected May 2028] with experience across software engineering, front-end development, API integration, and data analysis in fintech and digital product environments.
 
 ## Technical Skills
 
@@ -12,13 +12,13 @@ Computer Science and Economics student at Boston University [Expected May 2028]w
 
 ## Projects
 
+### Handheld Game Console | C++, Arduino
+
+Developed Pac-Man and Snake for a custom handheld gaming console in Arduino IDE. The project placed 1st among 30 teams in the HackHardware Hackathon [Advanced Hardware Track].
+
 ### Sudoku Solver | Java
 
 Implemented a recursive backtracking solver for 9×9 Sudoku puzzles with row, column, and subgrid constraint tracking using multidimensional boolean arrays.
-
-### Handheld Game Console | C++, Arduino
-
-Developed Pac-Man and Snake for a custom handheld gaming console in Arduino IDE. The project placed 1st among 30 teams in the HackHardware Hackathon Advanced Hardware Track.
 
 ### Author Style Detection | Python, NLP
 
