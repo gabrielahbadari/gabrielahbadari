@@ -1,4 +1,4 @@
-# Gabriela Huang Badari
+## About Me
 
 Computer Science and Economics student at Boston University [Expected May 2028]with experience across software engineering, front-end development, API integration, and data analysis in fintech and digital product environments.
 
@@ -12,17 +12,14 @@ Computer Science and Economics student at Boston University [Expected May 2028]w
 
 ## Projects
 
-### Sudoku Solver
-**Java**
+### Sudoku Solver | Java
 
 Implemented a recursive backtracking solver for 9×9 Sudoku puzzles with row, column, and subgrid constraint tracking using multidimensional boolean arrays.
 
-### Handheld Game Console
-**C++ | Arduino**
+### Handheld Game Console | C++, Arduino
 
 Developed Pac-Man and Snake for a custom handheld gaming console in Arduino IDE. The project placed 1st among 30 teams in the HackHardware Hackathon Advanced Hardware Track.
 
-### Author Style Detection
-**Python | NLP**
+### Author Style Detection | Python, NLP
 
 Developed an NLP classifier that models linguistic features including word frequency, word length, stemming patterns, sentence length, and pronoun usage. Implemented log-based similarity scoring to compare unseen text against reference models and predict authorship.
