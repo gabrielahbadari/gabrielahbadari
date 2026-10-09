@@ -14,12 +14,12 @@ Computer Science and Economics student at Boston University [Expected May 2028] 
 
 ### Handheld Game Console | C++, Arduino
 
-Developed Pac-Man and Snake for a custom handheld gaming console in Arduino IDE. The project placed 1st among 30 teams in the HackHardware Hackathon [Advanced Hardware Track].
+Developed Pac-Man and Snake in C++ for a custom Arduino-based handheld console, using object-oriented design and modular game logic to manage input, collisions, rendering, scoring, and gameplay while collaborating on hardware design and controls, earning 1st place among 30 teams.
 
 ### Sudoku Solver | Java
 
-Implemented a recursive backtracking solver for 9×9 Sudoku puzzles with row, column, and subgrid constraint tracking using multidimensional boolean arrays.
+Implemented a recursive backtracking Sudoku solver in Java using row, column, and 3×3 subgrid constraints, with multidimensional boolean lookup arrays to efficiently validate candidates, update puzzle state, and restore prior state during backtracking.
 
 ### Author Style Detection | Python, NLP
 
-Developed an NLP classifier that models linguistic features including word frequency, word length, stemming patterns, sentence length, and pronoun usage. Implemented log-based similarity scoring to compare unseen text against reference models and predict authorship.
+Developed a Python NLP classifier that modeled five stylistic features, including word frequency, word length, stemming patterns, sentence length, and pronoun usage, then applied log-based similarity scoring to compare unseen text against reference models and predict the closest source author.
